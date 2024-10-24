@@ -1,6 +1,4 @@
-### README (CRISP-MLQ Summary) for Market Basket Analysis Project
 
----
 
 **Problem Statement:**  
 Comparing Apriori and FP-Growth algorithms for association rules mining on a real-time market basket dataset to discover frequent itemsets and purchasing patterns.
@@ -44,6 +42,3 @@ Comparing Apriori and FP-Growth algorithms for association rules mining on a rea
 - **Customer Engagement:**  
   Enhanced shopping experience with targeted, relevant recommendations.
 
---- 
-
-This README highlights the comparative study between Apriori and FP-Growth algorithms, focusing on the superior efficiency of FP-Growth for market basket analysis.
